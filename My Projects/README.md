@@ -1,4 +1,4 @@
-📊 ## R.A. Margaretha Katherine Ratih - Data Portfolio
+# R.A. Margaretha Katherine Ratih - Data Portfolio
 
 ## 📊 Data Analyst | Turning Data into Actionable Business Insights
 
