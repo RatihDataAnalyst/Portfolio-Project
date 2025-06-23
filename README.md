@@ -61,7 +61,7 @@ Developed real-time network monitoring dashboard to track service quality and cu
 
 **Business Impact:** Decreased customer churn by 22% through proactive network optimization
 
-(view project →)(./My Projects/Telecom Network Performance Dashboard)
+[view project →](./My Projects/Telecom-Network-Performance-Dashboard)
 
 ### 🏭 Supply Chain Optimization Analysis
 **Tools:** `Looker` `Python` `Advanced Analytics`
