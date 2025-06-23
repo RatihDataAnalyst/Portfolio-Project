@@ -35,7 +35,7 @@ I'm a passionate data analyst who loves transforming complex datasets into clear
 
 ## 🎯 Featured Projects
 
-### 🚗 ![Vehicle Sales Performance Analysis]
+### 🚗 Vehicle Sales Performance Analysis
 **Tools:** `Python` `Tableau` `SQL`
 
 Analyzed vehicle sales data to identify key performance drivers and market trends, resulting in **15% improvement** in sales targeting strategy.
