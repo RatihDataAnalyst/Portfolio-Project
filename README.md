@@ -47,7 +47,7 @@ Analyzed vehicle sales data to identify key performance drivers and market trend
 
 **Business Impact:** Enhanced sales team efficiency and improved quarterly performance by 15%
 
-[view project →](./My Projects/Vehicle-Sales-Performance-Analysis)
+[View Project →](./My Projects/Vehicle-Sales-Performance-Analysis).
 
 ### 📡 Telecom Network Performance Dashboard
 **Tools:** `Power BI` `Google Sheets` `Python`
@@ -61,7 +61,7 @@ Developed real-time network monitoring dashboard to track service quality and cu
 
 **Business Impact:** Decreased customer churn by 22% through proactive network optimization
 
-[view project →](./My Projects/Telecom-Network-Performance-Dashboard)
+[View Project →](./My Projects/Telecom-Network-Performance-Dashboard).
 
 ### 🏭 Supply Chain Optimization Analysis
 **Tools:** `Looker` `Python` `Advanced Analytics`
@@ -75,7 +75,7 @@ Optimized supply chain operations by analyzing logistics data and identifying bo
 
 **Business Impact:** Generated $2.3M in annual cost savings through data-driven optimization
 
-view project →)(./My Projects/Supply Chain Optimization Analysis)
+[View Project →](./My Projects/Supply Chain Optimization Analysis).
 
 
 ## 📈 What I Bring to Your Team
