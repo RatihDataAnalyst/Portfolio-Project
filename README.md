@@ -47,7 +47,7 @@ Analyzed vehicle sales data to identify key performance drivers and market trend
 
 **Business Impact:** Enhanced sales team efficiency and improved quarterly performance by 15%
 
-[View Project →](./My Projects/Vehicle-Sales-Performance-Analysis).
+[View Project →](My Projects/Vehicle-Sales-Performance-Analysis)
 
 ### 📡 Telecom Network Performance Dashboard
 **Tools:** `Power BI` `Google Sheets` `Python`
