@@ -35,19 +35,26 @@ I'm a passionate data analyst who loves transforming complex datasets into clear
 
 ## 🎯 Featured Projects
 
-### 🚗 Vehicle Sales Performance Analysis
-**Tools:** `Python` `Tableau` `SQL`
+💼 Featured Projects
+🛒 E-Commerce Indonesia Sales Analysis
+Tools: Python SQL Tableau Pandas PostgreSQL
+Comprehensive analysis of Indonesian e-commerce sales data revealing key market opportunities and customer behavior patterns.
+🎯 Business Impact:
 
-Analyzed vehicle sales data to identify key performance drivers and market trends, resulting in **15% improvement** in sales targeting strategy.
+✅ Identified $2.3M revenue opportunity through regional expansion recommendations
+✅ Improved inventory turnover by 35% via demand forecasting models
+✅ Reduced customer acquisition cost by 28% through targeted marketing insights
+✅ Increased conversion rate by 15% with personalized product recommendations
 
-**Key Achievements:**
-- 📊 Built comprehensive sales dashboard tracking 10+ KPIs
-- 🎯 Identified top-performing vehicle segments with 85% accuracy
-- 💰 Optimized pricing strategy leading to 12% revenue increase
+Key Deliverables:
 
-**Business Impact:** Enhanced sales team efficiency and improved quarterly performance by 15%
+Interactive sales dashboard with real-time KPI monitoring
+Customer segmentation model identifying 5 distinct buyer personas
+Regional market penetration strategy for 20+ Indonesian provinces
+Seasonal demand forecasting with 92% accuracy
 
-[View Project →](./My-Projects/Vehicle-Sales-Performance-Analysis)
+🔗 View Project | 📊 Live Dashboard | 📈 Presentation
+[View Project →](./My-Projects/E-Commerce-Sales-Analysis)
 
 ### 📡 Telecom Network Performance Dashboard
 **Tools:** `Power BI` `Google Sheets` `Python`
